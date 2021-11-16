@@ -1,0 +1,50 @@
+table {
+ background-color:#FFBBCC;
+ }
+ tr {
+ background-color:#FF94CC;
+ }
+ .pink{
+   color: #A2416B;
+   width:60%;
+   }
+ .darkred{
+   color: #8E0505;
+   height: 30px;
+   width:60%;
+   }
+.pink2{
+  color:#A12568;
+  background-color:#A12568;
+}
+ #p1{
+   color: #8E0505;
+   font-size: 17px;
+   font-weight: normal;
+   font-variant: small-caps slashed-zero;
+   font-style: oblique;
+   text-decoration: underline dotted;
+   font-family: cursive;
+ }
+ #p2{
+   color: #8E0505;
+   font-size: 17px;
+   font-weight: normal;
+   font-variant: small-caps slashed-zero;
+   font-style: oblique;
+   text-decoration: underline dotted;
+   font-family: cursive;
+ }
+ #p3{
+   color: #8E0505;
+   font-size: 17px;
+   font-weight: normal;
+   font-variant: small-caps slashed-zero;
+   font-style: oblique;
+   text-decoration: underline dotted;
+   font-family: cursive;
+ }
+ /*******Псевдокласи**************/
+ a:link{
+   background-color: #EFB7B7;
+ }
